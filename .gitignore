@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Ignore virtual environments (if using one)
+.venv/
+
+# Ignore chrome driver
+chromedriver.exe
